@@ -1,4 +1,4 @@
-# Predicting-Customer-Churn---Gradient-Boosting
+# predicting-customer-churn-gradient-boosting
 This project uses customer data from an insurance company to predict churn using advanced feature engineering and gradient boosting models. The goal was to develop a model that could effectively identify customers likely to leave, allowing the business to take proactive retention measures.
 
 🔍 **Project Overview**    
