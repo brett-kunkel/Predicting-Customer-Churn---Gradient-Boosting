@@ -60,9 +60,6 @@ Identifying at-risk customer segments
 Targeting promotional offers
 
 📁 Repo Structure
-bash
-Copy
-Edit
 ```
 customer-churn-prediction/
 │
